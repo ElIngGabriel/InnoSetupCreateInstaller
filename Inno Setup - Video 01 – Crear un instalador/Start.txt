@@ -1,0 +1,5 @@
+Este es un archivo que abre al finalizar la instalación
+
+Tutoriales #ElIngGabriel
+
+---->Final

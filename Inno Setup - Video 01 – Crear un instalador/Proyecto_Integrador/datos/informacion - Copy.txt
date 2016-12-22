@@ -1,0 +1,1 @@
+1 - carros, 2 - cosas, 3 - frutas, 4 - nombres, 5 - simbolos
